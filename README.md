@@ -8,7 +8,7 @@ The system allows users to upload geospatial boundary data (`data.json`), select
 
 # System Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/architechture.png)
 
 The system architecture consists of:
 

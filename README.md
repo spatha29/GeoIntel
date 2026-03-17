@@ -1,8 +1,5 @@
 # GeoIntel – Forest Classification Platform
 
-**Author:** Shristi
-**Program:** MS Computer Science – Arizona State University
-
 GeoIntel is a cloud-based geospatial analysis platform that performs **land usage classification and natural forest detection** using **Google Earth Engine (GEE)** and **AWS cloud services**.
 
 The system allows users to upload geospatial boundary data (`data.json`), select a date range, and generate classification outputs through an interactive web interface.
